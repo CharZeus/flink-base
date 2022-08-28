@@ -1,3 +1,4 @@
+package com.example.wc;
 import org.apache.flink.api.scala._ //{AggregateDataSet, DataSet, ExecutionEnvironment}
 
 object wordCount {

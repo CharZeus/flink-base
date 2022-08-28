@@ -43,6 +43,12 @@
             <artifactId>flink-connector-kafka-0.11_2.11</artifactId>
             <version>1.7.2</version>
         </dependency>
+
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>2.9.0</version>
+        </dependency>
     </dependencies>
 
     <build>
